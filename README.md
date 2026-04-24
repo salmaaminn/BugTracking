@@ -20,10 +20,3 @@ java BugAnalysis
 8. Bug Summary
 0. Exit
 ```
-
-### Example
-```
-Bug ID: 101
-Description: Login button not working
-Severity: High
-```
