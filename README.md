@@ -1,4 +1,4 @@
-# Bug Tracking & Test Analytics System
+# Bug Tracking & Test Analysis
 
 A Java-based command-line application for tracking software bugs, managing bug statuses, and analyzing test results across features.
 
